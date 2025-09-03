@@ -5,7 +5,7 @@
 - 😄 I’m part of the Jai closed beta
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 Reach me out via email at oumansour.stefan@gmail.com.
-- 🌐 You can also take a look at my website: https://ostef.github.io/
+- 🌐 You can also take a look at my portfolio: https://ostef.github.io/
 
 <!---
 ostef/ostef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
