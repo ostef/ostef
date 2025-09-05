@@ -7,6 +7,8 @@
 - 📫 Reach me out via email at oumansour.stefan@gmail.com.
 - 🌐 You can also take a look at my portfolio: https://ostef.github.io/
 
+![ostef's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ostef&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 <!---
 ostef/ostef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
